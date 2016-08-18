@@ -1,0 +1,3 @@
+[submodule "catClicker"]
+	path = catClicker
+	url = https://github.com/ifahrentholz/udactiy-catClicker.git
