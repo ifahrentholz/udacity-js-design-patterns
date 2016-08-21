@@ -1,3 +1,6 @@
 [submodule "catClicker"]
 	path = catClicker
 	url = https://github.com/ifahrentholz/udactiy-catClicker.git
+[submodule "school-attendance-app"]
+	path = school-attendance-app
+	url = https://github.com/ifahrentholz/school-attendance-app
