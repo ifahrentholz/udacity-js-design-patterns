@@ -4,3 +4,6 @@
 [submodule "school-attendance-app"]
 	path = school-attendance-app
 	url = https://github.com/ifahrentholz/school-attendance-app
+[submodule "frontend-nanodegree-resume"]
+	path = frontend-nanodegree-resume
+	url = https://github.com/ifahrentholz/frontend-nanodegree-resume
